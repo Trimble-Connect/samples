@@ -2,7 +2,7 @@
 
 ClientDemo is a demonstration how to use a Trimble.Connect.Client component to access Trimble Connect services.
 
-Console application demosntrates following steps:
+Console application demonstrates following steps:
 
 1. Sign-in using web form.
 2. List all projects
